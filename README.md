@@ -7,7 +7,7 @@ mvn spring-boot:run
 
 ## Query insert dummy data
 ```sql
-INSERT INTO MONEYS (ID,BALANCE,NAME) values (1, 1000,'root')
+INSERT INTO MONEYS (ID,BALANCE,NAME) VALUES (1, 1000,'root')
 ```
 
 ## Sample endpoint
